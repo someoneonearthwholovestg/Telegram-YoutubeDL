@@ -5,7 +5,7 @@ import telepot
 import requests
 import pafy
 
-TOKEN = "263037647:AAGhrgr1vi9GheiC_Je90STYE67ChiT_ZvA"
+TOKEN = "1059789534:AAE2SZ-GfXVRYPjv43UKV7Ux_J6tut2flcY"
 
 def handle(msg):
     content_type, chat_type, chat_id = telepot.glance(msg)
