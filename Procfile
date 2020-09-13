@@ -1,1 +1,1 @@
-web: python Youtube-DL.py ${PORT}
+web: python Youtube-DL.py
